@@ -1,0 +1,8 @@
+add to cart
+ view product categories vise
+ pagination in featured product
+ limit the categoroies in home page 
+
+
+
+ 

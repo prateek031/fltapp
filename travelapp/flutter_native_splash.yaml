@@ -1,0 +1,4 @@
+flutter_native_splash:
+  background_image: "asset/images/tv2.jpeg"
+  
+fullscreen: true
