@@ -7,7 +7,6 @@ import 'package:sizer/sizer.dart';
 import 'package:ssd/services/routes/routes.dart';
 import 'package:ssd/src/getx/controllers/categories_controller.dart';
 import 'package:ssd/src/widgets/search.dart';
-
 import '../getx/controllers/counter_controler.dart';
 import '../getx/controllers/view_all_products_controller.dart';
 import '../widgets/end_drawer.dart';
